@@ -29,3 +29,5 @@ allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/stroke_dashboard"]
+
+[tool.poetry.dependencies]

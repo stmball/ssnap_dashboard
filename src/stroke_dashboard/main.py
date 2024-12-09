@@ -5,6 +5,20 @@ import pandas as pd
 from pathlib import Path
 
 
+def color_scale(val):
+    if isinstance(val, str):
+        if val == "E":
+            return "background-color: black"
+        elif val == "D":
+            return "background-color: red"
+        elif val == "C":
+            return "background-color: orange"
+        elif val == "B":
+            return "background-color: yellow"
+        elif val == "A":
+            return "background-color: green"
+
+
 def get_data(team: str):
     import_path = Path("data") / "processed" / f"{team}.csv"
     df = pd.read_csv(import_path, index_col=0)
@@ -51,6 +65,9 @@ if teams:
         f"{latest_scores.iloc[-1, 0] - latest_scores.iloc[-2, 0]:.2f}",
     )
 
-if len(teams) == 1:
-    data = get_data(teams[0])
-    st.dataframe(data)
+    for team in teams:
+        data = get_data(team)
+
+        # Color boxes based on score scaled
+        st.header(f"Data Breakdown for {team}")
+        st.dataframe(data.style.applymap(color_scale))

@@ -133,7 +133,13 @@ def get_scores_per_team(df: pd.DataFrame):
     return dict(zip(teams, scores))
 
 
+def get_scores_broken_down_per_team():
+    for team in pd.read_csv("data/data.csv", index_col=0).columns:
+        get_team_data(team)
+
+
 if __name__ == "__main__":
     fetch_all_summary_data()
     get_all_scores_per_team()
-    get_team_data("Royal London Hospital HASU")
+    get_scores_broken_down_per_team()
+    get_scores_broken_down_per_team()
