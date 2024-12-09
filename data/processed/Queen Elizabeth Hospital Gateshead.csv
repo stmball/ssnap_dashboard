@@ -1,0 +1,42 @@
+SSNAP Scoring Summary:,2013-10-01,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01
+  SSNAP level,D,E,E,E,D,D,D,E,D,D,B,A,B,B,B,A,A,B,B,C,C,C,C,B,C,B,B,C,C,B
+  SSNAP score,42.5,39.1,39.3,35.7,50.4,40.5,46.5,36.3,55.8,54.2,78.2,82.3,75,74.1,74.1,82.6,80.8,73.8,74.0,62.1,60.6,69.0,61.8,72.0,68.4,71.9,70.0,64.6,67.7,70.3
+  Case ascertainment band,A,A,B,A,A,A,A,C,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,A
+  Audit compliance band,D,D,C,D,C,C,B,B,C,B,B,B,B,B,B,B,B,A,A,C,C,A,B,A,B,B,A,B,A,A
+  Combined Total Key Indicator level,D,D,D,D,D,D,D,D,C,D,A,A,B,B,B,A,A,B,B,C,C,C,C,B,B,B,B,C,C,B
+  Combined Total Key Indicator score,50,46,46,42,56,45,49,45,62,57,82.3,86.7,79,78,78.0,87,85,77.7,74.0,69.0,67.3,69.0,65.0,72.0,72.0,75.7,73.7,68.0,67.7,70.3
+Number of records completed: Team-centred post-72h all teams cohort,95,112,85,91,89,99,107,76,90,96,59,58,69,63,79,56,65,58,80,70,67,66,65,66,81,69,61,70,73,76
+Patient-centred Domain levels: 1) Scanning,D,D,E,E,D,E,D,D,D,C,A,A,A,A,A,A,A,A,A,B,B,A,A,B,B,A,B,B,B,A
+Patient-centred Domain levels: 2) Stroke unit,B,C,C,C,C,D,C,D,D,D,A,A,A,A,A,A,A,B,B,D,C,B,B,C,C,C,C,D,D,C
+Patient-centred Domain levels: 3) Thrombolysis,D,E,E,E,D,D,D,D,D,C,A,A,A,A,A,A,B,B,C,C,B,A,C,B,B,B,C,D,D,C
+Patient-centred Domain levels: 4) Specialist Assessments,B,B,B,D,B,D,C,C,D,C,A,A,A,A,A,A,A,B,B,C,C,B,B,C,B,B,C,C,D,B
+Patient-centred Domain levels: 5) Occupational therapy,C,C,B,C,A,B,A,B,A,A,A,A,A,A,B,A,A,A,A,A,B,B,B,A,A,A,A,A,A,A
+Patient-centred Domain levels: 6) Physiotherapy,D,D,D,D,B,A,B,C,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,B,B,A,A,B,C,B
+Patient-centred Domain levels: 7) Speech and Language therapy,E,E,E,E,E,E,E,E,D,E,B,A,B,C,C,B,A,C,C,C,D,C,D,B,B,C,B,B,B,C
+Patient-centred Domain levels: 8) MDT working,D,C,D,C,D,E,D,D,D,D,A,B,B,B,B,A,B,C,C,D,D,B,C,C,C,C,C,D,D,C
+Patient-centred Domain levels: 9) Standards by discharge,D,E,D,D,E,E,E,D,B,D,C,C,C,B,B,A,B,A,A,B,B,B,B,B,C,B,B,B,B,B
+Patient-centred Domain levels: 10) Discharge processes,C,C,C,C,B,C,D,D,A,C,D,C,C,D,C,C,C,C,D,C,C,D,D,C,C,C,C,C,C,C
+Patient-centred KI level Patient-centred Total KI level,D,D,D,D,D,D,D,D,C,D,A,A,A,A,A,A,A,A,B,C,C,B,B,B,B,B,B,C,C,B
+Patient-centred KI level Patient-centred Total KI score,50,46,46,42,56,44,50,46,62,58,88,90,88,86,86.0,94,90,82.0,78.0,68.0,68.0,78.0,70.0,74.0,74.0,78.0,74.0,66.0,62.0,74.0
+"Patient-centred SSNAP level Patient-centred SSNAP level 
+(after adjustments)",D,E,E,E,D,E,D,E,D,D,A,A,A,A,A,A,A,B,B,C,C,B,C,B,B,B,B,C,C,B
+Patient-centred SSNAP level Patient-centred SSNAP score,42.5,39.1,39.3,35.7,50.4,39.6,47.5,37.1,55.8,55.1,83.6,85.5,83.6,81.7,81.7,89.3,85.5,77.9,78.0,61.2,61.2,78.0,66.5,74.0,70.3,74.1,70.3,62.7,62.0,74.0
+Team-centred Domain levels: 1) Scanning,D,D,E,E,D,E,D,D,D,C,,,,,,,,,,,,,,,,,,,,
+Team-centred Domain levels: 2) Stroke unit,B,C,C,C,C,D,C,D,D,D,A,A,B,A,A,A,A,B,C,C,C,C,B,C,D,D,D,D,D,D
+Team-centred Domain levels: 3) Thrombolysis,D,E,E,E,D,D,D,E,D,C,,,,,,,,,,,,,,,,,,,,
+Team-centred Domain levels: 4) Specialist Assessments,B,B,B,D,B,D,C,C,D,D,,,,,,,,,,,,,,,,,,,,
+Team-centred Domain levels: 5) Occupational therapy,C,C,B,C,A,B,A,B,A,A,A,A,C,B,C,A,A,A,A,B,B,C,C,B,A,A,A,A,A,A
+Team-centred Domain levels: 6) Physiotherapy,D,D,D,D,B,A,C,C,A,A,A,A,A,A,B,A,A,B,B,A,A,B,B,B,B,A,A,C,C,B
+Team-centred Domain levels: 7) Speech and Language therapy,E,E,E,E,E,E,E,E,D,E,C,B,C,E,D,E,D,E,D,D,E,D,E,C,B,C,C,B,A,D
+Team-centred Domain levels: 8) MDT working,D,C,D,C,D,D,D,D,D,D,,,,,,,,,,,,,,,,,,,,
+Team-centred Domain levels: 9) Standards by discharge,D,E,D,D,E,E,E,D,B,D,C,C,C,B,B,A,B,A,A,B,B,B,B,B,C,B,B,B,B,B
+Team-centred Domain levels: 10) Discharge processes,C,C,C,C,B,C,D,D,A,C,D,C,C,D,C,C,C,C,D,C,C,D,D,C,C,C,C,C,C,C
+Team-centred KI level Team-centred Total KI level,D,D,D,D,D,D,D,D,C,D,B,A,B,B,B,B,B,B,B,B,C,C,C,B,B,B,B,B,B,C
+Team-centred KI level Team-centred Total KI score,50,46,46,42,56,46,48,44,62,56,76.7,83.3,70,70,70.0,80,80,73.3,70.0,70.0,66.7,60.0,60.0,70.0,70.0,73.3,73.3,70.0,73.3,66.7
+"Team-centred SSNAP level Team-centred SSNAP level 
+(after adjustments)",D,E,E,E,D,D,D,E,D,D,B,B,C,C,C,B,B,C,B,C,C,C,D,B,C,C,C,C,B,C
+Team-centred SSNAP level Team-centred SSNAP score,42.5,39.1,39.3,35.7,50.4,41.4,45.6,35.5,55.8,53.2,72.8,79.2,66.5,66.5,66.5,76,76,69.7,70.0,63.0,60.0,60.0,57.0,70.0,66.5,69.7,69.7,66.5,73.3,66.7
+Applicability to be assessed at 6m: Number of patients considered applicable to be assessed at 6 months - (ref B12.1),,120,77,86,95,79,88,82,75,73,90,71,67,59,69,88,76,77,58,75,77,92,86,90,75,67,80,94,80,84
+Applicability to be assessed at 6m: Proportion of patients alive who are considered applicable to be assessed at 6 months - (ref B12.3),,0.75,0.73,0.63,0.68,0.56,0.61,0.6,0.52,0.53,0.93,0.93,0.93,0.89,87%,0.88,0.81,92%,92%,87%,83%,86%,81%,83%,86%,86%,85%,89%,75%,85%
+Patients assessed at 6m: Number of applicable patients assessed - (ref B13.1),,77,54,83,61,78,86,80,75,62,60,41,37,35,43,51,48,58,40,54,47,55,51,54,45,38,49,27,30,35
+Patients assessed at 6m: Proportion of applicable patients assessed - (ref B13.3),,0.64,0.7,0.97,0.64,0.99,0.98,0.98,1,0.85,0.67,0.58,0.55,0.59,62%,0.58,0.63,75%,69%,72%,61%,60%,59%,60%,60%,57%,61%,29%,38%,42%

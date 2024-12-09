@@ -1,0 +1,42 @@
+SSNAP Scoring Summary:,2013-10-01,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01
+  SSNAP level,E,D,D,D,D,D,D,D,D,D,X,X,X,X,E,E,E,C,C,C,C,C,C,D,C,C,C,D,C,C
+  SSNAP score,33.6,44.1,52.2,47.5,41.4,46.8,48.4,59.8,51.3,52.3,.,.,.,.,.,.,.,64.6,63.7,65.0,67.0,68.0,67.0,57.0,60.8,60.8,63.7,59.8,62.7,62.0
+  Case ascertainment band,E,A,B,A,A,A,A,A,A,A,X,X,E,E,E,E,E,A,A,A,A,A,A,A,A,A,A,A,A,A
+  Audit compliance band,A,C,C,B,C,C,B,B,B,B,X,X,X,X,X,X,X,B,B,A,A,A,A,B,B,B,B,B,B,A
+  Combined Total Key Indicator level,D,D,C,D,D,D,D,C,D,D,X,X,X,X,X,X,X,C,C,C,C,C,C,C,C,C,C,C,C,C
+  Combined Total Key Indicator score,56,49,61,50,46,52,51,63,54,55,.,.,.,.,.,.,.,68.0,67.0,65.0,67.0,68.0,67.0,60.0,64.0,64.0,67.0,63.0,66.0,62.0
+Number of records completed: Team-centred post-72h all teams cohort,Insufficient records,195,204,223,283,274,284,223,238,263,None completed,None completed,Insufficient records,Insufficient records,.,Insufficient records,Insufficient records,362,351,361,312,337,327,343,362,350,361,359,322,314
+Patient-centred Domain levels: 1) Scanning,C,D,C,D,C,C,D,C,C,C,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,A,A,B,A,A,A,A,A,A,A,A,A
+Patient-centred Domain levels: 2) Stroke unit,C,D,D,D,D,D,D,C,D,D,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,D,E,E,E,E,E,E,E,E,E,E,E,E
+Patient-centred Domain levels: 3) Thrombolysis,C,D,B,D,D,D,C,B,C,C,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,C,C,C,C,D,C,C,C,C,C,C,C
+Patient-centred Domain levels: 4) Specialist Assessments,C,D,C,D,D,C,C,C,D,C,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,B,B,B,B,B,C,B,B,B,B,B,B
+Patient-centred Domain levels: 5) Occupational therapy,Insufficient records,A,B,A,C,C,D,C,C,D,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,A,B,A,A,A,B,A,A,A,B,A,B
+Patient-centred Domain levels: 6) Physiotherapy,Insufficient records,B,A,B,C,B,D,C,D,D,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,B,C,B,B,B,B,B,B,B,B,B,C
+Patient-centred Domain levels: 7) Speech and Language therapy,Insufficient records,E,E,E,E,D,C,B,B,C,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,C,C,C,C,C,C,C,C,B,B,C,C
+Patient-centred Domain levels: 8) MDT working,D,D,D,D,D,D,D,D,D,D,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,C,C,D,C,C,C,D,D,D,D,D,C,D
+Patient-centred Domain levels: 9) Standards by discharge,Insufficient records,D,B,C,C,C,B,A,B,A,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,B,B,B,B,B,B,B,B,B,B,B,B
+Patient-centred Domain levels: 10) Discharge processes,Insufficient records,D,D,D,D,D,D,D,D,C,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,D,D,D,D,D,D,D,D,D,D,D,D,D
+Patient-centred KI level Patient-centred Total KI level,D,D,C,D,D,D,D,C,D,D,No records,No records,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,C,C,C,C,C,C,C,C,C,C,C,C
+Patient-centred KI level Patient-centred Total KI score,56,48,60,50,46,52,50,64,54,56,.,.,.,.,.,.,.,70.0,68.0,62.0,66.0,68.0,66.0,62.0,66.0,66.0,68.0,66.0,68.0,62.0
+"Patient-centred SSNAP level Patient-centred SSNAP level 
+(after adjustments)",E,D,D,D,D,D,D,C,D,D,X,X,X,X,X,X,X,C,C,C,C,C,C,D,C,C,C,C,C,C
+Patient-centred SSNAP level Patient-centred SSNAP score,33.6,43.2,51.3,47.5,41.4,46.8,47.5,60.8,51.3,53.2,.,.,.,.,.,.,.,66.5,64.6,62.0,66.0,68.0,66.0,58.9,62.7,62.7,64.6,62.7,64.6,62.0
+Team-centred Domain levels: 1) Scanning,C,D,C,D,C,C,D,C,C,C,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,B,A,B,A,A,A,A,A,A,A,A,A
+Team-centred Domain levels: 2) Stroke unit,C,D,D,D,D,D,D,C,D,D,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,D,E,E,E,E,E,E,E,E,E,E,E,E
+Team-centred Domain levels: 3) Thrombolysis,C,D,B,D,D,D,B,B,C,C,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,C,C,C,C,C,D,C,C,C,C,C,D,C
+Team-centred Domain levels: 4) Specialist Assessments,C,D,C,D,D,C,C,C,D,C,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,B,B,B,B,B,C,B,B,B,B,B,B
+Team-centred Domain levels: 5) Occupational therapy,Insufficient records,A,B,A,C,C,D,C,C,D,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,C,A,B,A,A,A,C,B,C,B,C,B,C
+Team-centred Domain levels: 6) Physiotherapy,Insufficient records,B,A,B,C,B,D,D,D,E,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,B,B,B,C,B,C,C,C,C,C,B,C
+Team-centred Domain levels: 7) Speech and Language therapy,Insufficient records,E,E,E,E,D,C,B,B,C,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,C,B,B,B,B,C,C,C,B,C,C,C
+Team-centred Domain levels: 8) MDT working,D,C,C,D,D,D,D,D,D,D,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,C,C,C,C,C,C,C,C,C,C,C,C,C
+Team-centred Domain levels: 9) Standards by discharge,Insufficient records,D,B,C,C,C,B,A,B,A,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,B,B,B,B,B,B,B,B,B,B,B,B,B
+Team-centred Domain levels: 10) Discharge processes,Insufficient records,D,D,D,D,D,D,D,D,C,None entered,None entered,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,D,D,D,D,D,D,E,E,D,D,E,D,D
+Team-centred KI level Team-centred Total KI level,D,D,C,D,D,D,D,C,D,D,No records,No records,Insufficient records,Insufficient records,,Insufficient records,Insufficient records,C,C,C,C,C,C,D,C,C,C,C,C,C
+Team-centred KI level Team-centred Total KI score,56,50,62,50,46,52,52,62,54,54,.,.,.,.,.,.,.,66.0,66.0,68.0,68.0,68.0,68.0,58.0,62.0,62.0,66.0,60.0,64.0,62.0
+"Team-centred SSNAP level Team-centred SSNAP level 
+(after adjustments)",E,D,D,D,D,D,D,D,D,D,X,X,X,X,X,X,X,C,C,C,C,C,C,D,D,D,C,D,C,C
+Team-centred SSNAP level Team-centred SSNAP score,33.6,45,53,47.5,41.4,46.8,49.4,58.9,51.3,51.3,.,.,.,.,.,.,.,62.7,62.7,68.0,68.0,68.0,68.0,55.1,58.9,58.9,62.7,57.0,60.8,62.0
+Applicability to be assessed at 6m: Number of patients considered applicable to be assessed at 6 months - (ref B12.1),,216,366,361,364,379,432,433,365,355,397,261,67,7,18,29,37,372,496,523,557,552,512,518,525,522,516,552,544,520
+Applicability to be assessed at 6m: Proportion of patients alive who are considered applicable to be assessed at 6 months - (ref B12.3),,1,1,1,1,1,0.97,0.95,0.97,1,1,1,1,1,100%,1,0.95,96%,97%,96%,93%,93%,94%,91%,91%,90%,91%,91%,88%,86%
+Patients assessed at 6m: Number of applicable patients assessed - (ref B13.1),,0,0,0,0,1,50,139,149,151,3,3,1,0,2,2,8,18,16,40,74,97,65,79,85,95,93,114,108,101
+Patients assessed at 6m: Proportion of applicable patients assessed - (ref B13.3),,0,0,0,0,0,0.12,0.32,0.41,0.43,0.01,0.01,0.01,0,11%,0.07,0.22,5%,3%,8%,13%,18%,13%,15%,16%,18%,18%,21%,20%,19%
