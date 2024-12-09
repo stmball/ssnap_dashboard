@@ -1,33 +1,16 @@
-[project]
+[tool.poetry]
 name = "stroke-dashboard"
 version = "0.1.0"
-description = "Add your description here"
-dependencies = [
-    "pandas>=2.2.3",
-    "streamlit>=1.40.2",
-    "xlrd>=2.0.1",
-    "altair>=5.5.0",
-    "openpyxl>=3.1.5",
-]
+description = "A dashboard for SSNAP stoke data."
+authors = ["Samuel Ball <stmball@gmail.com>"]
 readme = "README.md"
-requires-python = ">= 3.8"
-
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
-[tool.pyright]
-venv = ".venv"
-venvPath = "."
-
-[tool.rye]
-managed = true
-dev-dependencies = []
-
-[tool.hatch.metadata]
-allow-direct-references = true
-
-[tool.hatch.build.targets.wheel]
-packages = ["src/stroke_dashboard"]
 
 [tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+streamlit = "^1.40.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
