@@ -1,10 +1,10 @@
 SSNAP Scoring Summary:,2013-10-01,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01
-  SSNAP level,C,D,C,B,C,B,B,B,B,B,A,A,A,A,A,A,A,B,B,C,C,B,X,B,B,A,C,B,B,B
-  SSNAP score,65,58.9,64.6,70,68,76,80,76,74,73,86,90,92,88,90.0,85.5,87,79.0,78.0,62.0,66.0,76.0,.,72.0,73.0,87.0,66.0,75.0,80.0,74.0
-  Case ascertainment band,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,E,A,A,A,A,A,A,A
-  Audit compliance band,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,X,A,A,A,A,A,A,A
-  Combined Total Key Indicator level,C,C,C,B,C,B,B,B,B,B,A,A,A,A,A,A,A,B,B,C,C,B,X,B,B,A,C,B,B,B
-  Combined Total Key Indicator score,65,62,68,70,68,76,80,76,74,73,86,90,92,88,90.0,90,87,79.0,78.0,62.0,66.0,80.0,.,72.0,73.0,87.0,66.0,75.0,80.0,74.0
+SSNAP level,C,D,C,B,C,B,B,B,B,B,A,A,A,A,A,A,A,B,B,C,C,B,X,B,B,A,C,B,B,B
+SSNAP score,65,58.9,64.6,70,68,76,80,76,74,73,86,90,92,88,90.0,85.5,87,79.0,78.0,62.0,66.0,76.0,.,72.0,73.0,87.0,66.0,75.0,80.0,74.0
+Case ascertainment band,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,E,A,A,A,A,A,A,A
+Audit compliance band,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,X,A,A,A,A,A,A,A
+Combined Total Key Indicator level,C,C,C,B,C,B,B,B,B,B,A,A,A,A,A,A,A,B,B,C,C,B,X,B,B,A,C,B,B,B
+Combined Total Key Indicator score,65,62,68,70,68,76,80,76,74,73,86,90,92,88,90.0,90,87,79.0,78.0,62.0,66.0,80.0,.,72.0,73.0,87.0,66.0,75.0,80.0,74.0
 Number of records completed: Team-centred post-72h all teams cohort,168,168,179,187,195,169,196,176,184,179,182,174,184,187,174,172,181,196,199,181,168,166,Insufficient records,170,186,188,192,189,203,209
 Patient-centred Domain levels: 1) Scanning,D,D,D,C,D,B,B,C,B,C,A,A,A,A,B,B,A,B,C,C,C,B,Insufficient records,B,B,A,B,A,B,B
 Patient-centred Domain levels: 2) Stroke unit,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,C,C,C,D,D,C,Insufficient records,C,C,C,D,D,C,C

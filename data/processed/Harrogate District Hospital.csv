@@ -1,10 +1,10 @@
 SSNAP Scoring Summary:,2013-10-01,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01
-  SSNAP level,C,D,D,C,D,C,D,D,C,D,D,D,D,D,C,E,E,X,E,X,X,E,E,E,X,D,E,D,D,E
-  SSNAP score,62,52.7,58.9,63.9,59.8,60.8,56.7,45.6,64,54.2,46.8,49.4,49.4,56,63.3,36.9,39,.,26.6,.,.,39.0,27.9,37.5,.,40.9,38.8,50.8,47.3,29.9
-  Case ascertainment band,A,C,A,A,A,A,A,A,A,A,C,A,A,B,A,B,A,E,D,E,E,C,C,D,E,B,C,C,A,C
-  Audit compliance band,A,A,B,C,B,B,C,B,A,B,B,B,B,A,B,D,C,X,D,X,X,D,E,D,X,D,D,D,D,E
-  Combined Total Key Indicator level,C,C,C,B,C,C,C,D,C,D,D,D,D,D,C,D,D,X,D,X,X,D,D,C,X,D,D,B,D,D
-  Combined Total Key Indicator score,62,62,62,71,63,64,63,48,64,57,58,52,52,59,66.7,45.7,43.3,.,44.7,.,.,54.0,41.0,63.0,.,50.7,53.7,70.3,55.7,44.0
+SSNAP level,C,D,D,C,D,C,D,D,C,D,D,D,D,D,C,E,E,X,E,X,X,E,E,E,X,D,E,D,D,E
+SSNAP score,62,52.7,58.9,63.9,59.8,60.8,56.7,45.6,64,54.2,46.8,49.4,49.4,56,63.3,36.9,39,.,26.6,.,.,39.0,27.9,37.5,.,40.9,38.8,50.8,47.3,29.9
+Case ascertainment band,A,C,A,A,A,A,A,A,A,A,C,A,A,B,A,B,A,E,D,E,E,C,C,D,E,B,C,C,A,C
+Audit compliance band,A,A,B,C,B,B,C,B,A,B,B,B,B,A,B,D,C,X,D,X,X,D,E,D,X,D,D,D,D,E
+Combined Total Key Indicator level,C,C,C,B,C,C,C,D,C,D,D,D,D,D,C,D,D,X,D,X,X,D,D,C,X,D,D,B,D,D
+Combined Total Key Indicator score,62,62,62,71,63,64,63,48,64,57,58,52,52,59,66.7,45.7,43.3,.,44.7,.,.,54.0,41.0,63.0,.,50.7,53.7,70.3,55.7,44.0
 Number of records completed: Team-centred post-72h all teams cohort,82,66,88,92,79,81,83,87,81,96,50,79,70,70,70,54,66,Insufficient records,32,Insufficient records,Insufficient records,46,58,46,Insufficient records,65,56,53,47,53
 Patient-centred Domain levels: 1) Scanning,D,C,C,D,D,E,E,D,D,D,E,D,E,C,A,B,C,Insufficient records,B,Insufficient records,Insufficient records,A,B,A,Insufficient records,A,A,A,A,B
 Patient-centred Domain levels: 2) Stroke unit,B,B,C,B,C,B,C,D,B,C,C,C,C,C,E,D,E,Insufficient records,E,Insufficient records,Insufficient records,D,D,D,Insufficient records,D,D,E,E,E

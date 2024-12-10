@@ -1,10 +1,10 @@
 SSNAP Scoring Summary:,2013-10-01,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01
-  SSNAP level,E,E,D,D,D,D,D,D,D,D,D,D,D,D,D,C,E,D,D,E,E,D,D,D,E,E,E,D,D,E
-  SSNAP score,32.8,34.4,44.8,44,42.5,48.4,48.4,57.8,54.4,50.1,41.7,49.8,40.5,52.4,48.2,60.1,37.6,40.4,58.9,33.8,30.0,54.6,49.6,59.9,34.5,30.0,24.2,52.9,50.4,38.7
-  Case ascertainment band,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A
-  Audit compliance band,E,E,E,E,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,E,D,D,D,D,E,E,E,B,D,E
-  Combined Total Key Indicator level,D,D,D,D,D,D,D,C,C,D,D,D,D,C,D,B,D,D,C,D,E,C,D,B,D,E,E,D,D,D
-  Combined Total Key Indicator score,41,43,56,55,50,57,57,68,64,59,49,58.6,47.6,61.7,56.7,70.7,44.3,47.6,69.3,42.3,35.2,64.3,58.3,70.5,45.4,39.5,30.2,55.7,59.3,48.3
+SSNAP level,E,E,D,D,D,D,D,D,D,D,D,D,D,D,D,C,E,D,D,E,E,D,D,D,E,E,E,D,D,E
+SSNAP score,32.8,34.4,44.8,44,42.5,48.4,48.4,57.8,54.4,50.1,41.7,49.8,40.5,52.4,48.2,60.1,37.6,40.4,58.9,33.8,30.0,54.6,49.6,59.9,34.5,30.0,24.2,52.9,50.4,38.7
+Case ascertainment band,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A
+Audit compliance band,E,E,E,E,D,D,D,D,D,D,D,D,D,D,D,D,D,D,D,E,D,D,D,D,E,E,E,B,D,E
+Combined Total Key Indicator level,D,D,D,D,D,D,D,C,C,D,D,D,D,C,D,B,D,D,C,D,E,C,D,B,D,E,E,D,D,D
+Combined Total Key Indicator score,41,43,56,55,50,57,57,68,64,59,49,58.6,47.6,61.7,56.7,70.7,44.3,47.6,69.3,42.3,35.2,64.3,58.3,70.5,45.4,39.5,30.2,55.7,59.3,48.3
 Number of records completed: Team-centred post-72h all teams cohort,63,77,71,102,117,100,90,75,86,93,51,53,54,58,53,44,59,63,58,76,53,36,33,32,22,29,48,28,42,44
 Patient-centred Domain levels: 1) Scanning,D,D,D,D,D,C,D,C,D,D,,,,,,,,,,,,,,,,,,,,
 Patient-centred Domain levels: 2) Stroke unit,D,D,C,D,D,E,D,D,D,D,E,D,E,D,E,C,E,E,D,E,E,C,C,D,B,D,D,C,B,C

@@ -1,10 +1,10 @@
 SSNAP Scoring Summary:,2013-10-01,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01
-  SSNAP level,E,E,D,D,C,C,C,B,B,B,B,B,B,B,B,C,B,C,C,B,C,C,B,B,C,C,C,C,C,D
-  SSNAP score,35.1,36.1,41.5,59.8,63,67,65,73,78,73,71,76,76,76,74.0,62,74,69.0,62.0,70.0,62.0,66.0,74.0,72.0,66.0,68.0,64.0,61.0,64.0,59.0
-  Case ascertainment band,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
-  Audit compliance band,B,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
-  Combined Total Key Indicator level,E,E,D,C,C,C,C,B,B,B,B,B,B,B,B,C,B,C,C,B,C,C,B,B,C,C,C,C,C,D
-  Combined Total Key Indicator score,37,38,46,63,63,67,65,73,78,73,71,76,76,76,74.0,62,74,69.0,62.0,70.0,62.0,66.0,74.0,72.0,66.0,68.0,64.0,61.0,64.0,59.0
+SSNAP level,E,E,D,D,C,C,C,B,B,B,B,B,B,B,B,C,B,C,C,B,C,C,B,B,C,C,C,C,C,D
+SSNAP score,35.1,36.1,41.5,59.8,63,67,65,73,78,73,71,76,76,76,74.0,62,74,69.0,62.0,70.0,62.0,66.0,74.0,72.0,66.0,68.0,64.0,61.0,64.0,59.0
+Case ascertainment band,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Audit compliance band,B,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Combined Total Key Indicator level,E,E,D,C,C,C,C,B,B,B,B,B,B,B,B,C,B,C,C,B,C,C,B,B,C,C,C,C,C,D
+Combined Total Key Indicator score,37,38,46,63,63,67,65,73,78,73,71,76,76,76,74.0,62,74,69.0,62.0,70.0,62.0,66.0,74.0,72.0,66.0,68.0,64.0,61.0,64.0,59.0
 Number of records completed: Team-centred post-72h all teams cohort,92,92,72,93,90,112,114,103,98,91,100,107,128,94,108,94,127,123,116,132,114,115,124,116,111,113,144,125,122,128
 Patient-centred Domain levels: 1) Scanning,E,E,E,D,C,B,C,C,C,C,A,B,A,A,A,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A
 Patient-centred Domain levels: 2) Stroke unit,E,E,D,C,C,C,C,C,C,C,C,C,C,C,D,D,C,C,E,D,E,E,E,E,E,E,E,E,E,E

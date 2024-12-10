@@ -1,10 +1,10 @@
 SSNAP Scoring Summary:,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01
-  SSNAP level,X,X,X,X,X,E,E,E,E,D,D,D,D,C,B,C,B,D,C,C,D,D,C,D,C,B,B,A,B
-  SSNAP score,.,.,.,.,.,27.4,30.6,25.5,27.2,48.4,52,48,58,61.0,71,68,72.0,58.0,62.7,63.0,50.3,58.9,61.0,52.3,60.8,71.0,76.0,86.0,76.0
-  Case ascertainment band,X,X,X,X,X,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
-  Audit compliance band,X,X,,X,X,E,D,D,D,B,A,A,A,A,A,A,A,A,B,A,B,B,A,B,B,A,A,A,A
-  Combined Total Key Indicator level,X,X,X,X,X,E,E,E,E,D,D,D,D,C,B,C,B,D,C,C,D,C,C,D,C,B,B,A,B
-  Combined Total Key Indicator score,.,.,.,.,.,36,36,30,32,51,52,48,58,61.0,71,68,72.0,58.0,66.0,63.0,53.0,62.0,61.0,55.0,64.0,71.0,76.0,86.0,76.0
+SSNAP level,X,X,X,X,X,E,E,E,E,D,D,D,D,C,B,C,B,D,C,C,D,D,C,D,C,B,B,A,B
+SSNAP score,.,.,.,.,.,27.4,30.6,25.5,27.2,48.4,52,48,58,61.0,71,68,72.0,58.0,62.7,63.0,50.3,58.9,61.0,52.3,60.8,71.0,76.0,86.0,76.0
+Case ascertainment band,X,X,X,X,X,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Audit compliance band,X,X,,X,X,E,D,D,D,B,A,A,A,A,A,A,A,A,B,A,B,B,A,B,B,A,A,A,A
+Combined Total Key Indicator level,X,X,X,X,X,E,E,E,E,D,D,D,D,C,B,C,B,D,C,C,D,C,C,D,C,B,B,A,B
+Combined Total Key Indicator score,.,.,.,.,.,36,36,30,32,51,52,48,58,61.0,71,68,72.0,58.0,66.0,63.0,53.0,62.0,61.0,55.0,64.0,71.0,76.0,86.0,76.0
 Number of records completed: Team-centred post-72h all teams cohort,None completed,None completed,None completed,None completed,None completed,25,48,53,42,51,39,46,49,59,52,55,35,50,52,39,46,42,65,61,67,56,73,55,45
 Patient-centred Domain levels: 1) Scanning,None entered,None entered,None entered,None entered,None entered,E,E,E,E,D,C,C,C,A,B,A,B,C,B,A,C,A,A,A,B,B,A,A,A
 Patient-centred Domain levels: 2) Stroke unit,None entered,None entered,None entered,None entered,None entered,E,E,E,E,E,E,E,E,E,D,E,E,E,E,E,E,E,E,E,E,E,D,C,C

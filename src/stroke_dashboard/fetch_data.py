@@ -7,6 +7,7 @@ from pathlib import Path
 
 import pandas as pd
 import requests
+import numpy as np
 
 
 class Quarters(Enum):
@@ -65,7 +66,7 @@ def fetch_all_summary_data():
         df.iloc[:, 0] = df.iloc[:, 0].fillna(" ")
 
         # Concat the first two string columns
-        df.iloc[:, 0] = df.iloc[:, 0] + " " + df.iloc[:, 1]
+        df.iloc[:, 0] = (df.iloc[:, 0] + " " + df.iloc[:, 1]).str.strip()
 
         # Drop the second column
         df = df.drop(df.columns[1], axis=1)
@@ -107,29 +108,48 @@ def get_team_data(team: str):
     team_data.to_csv(export / f"{team}.csv")
 
 
-def get_all_scores_per_team():
+def get_all_scores_per_team(level: str = "ISDN", metric: str = "SSNAP score"):
     """Get all scores per team for all quarters where data exists."""
 
     data = []
     valid_quarters = []
     for file in Path("data/raw").glob("*.csv"):
-        df = pd.read_csv(file)
+        df = pd.read_csv(file, index_col=0)
+        try:
+            scores = get_scores_per_team(df, level, metric)
+        except KeyError:
+            continue
         valid_quarters.append(file.stem[:3] + " " + file.stem[6:])
-        scores = get_scores_per_team(df)
         data.append(scores)
 
     # Convert valid quarters to datetime
     valid_quarters = pd.to_datetime(valid_quarters, format="%b %Y")
 
     # Convert to DataFrame
-    data = pd.DataFrame(data[1:], index=valid_quarters[1:])
-    data.to_csv("data/data.csv")
+    data = pd.DataFrame(data, index=valid_quarters).sort_index()
+
+    export_folder = Path("data/overview/by_metric/")
+    export_folder.mkdir(parents=True, exist_ok=True)
+    export_path = export_folder / f"summary_data_{level}_{metric}.csv"
+    data.to_csv(export_path)
+
+    return data
 
 
-def get_scores_per_team(df: pd.DataFrame):
+def get_scores_per_team(
+    df: pd.DataFrame, level: str = "ISDN", metric: str = "SSNAP score"
+):
     """Gets the scores per team from the DataFrame"""
-    teams = df.iloc[2, 2:].values
-    scores = df.iloc[4, 2:].values
+    # TODO: Can we find a better way of matching these?
+    try:
+        teams = df.loc[level].str.strip()
+    except KeyError:
+        # If the level is ISDN, default to SCN
+        if level == "ISDN":
+            teams = df.loc["SCN"].str.replace("SCN", "").str.strip()
+        else:
+            raise KeyError(f"Could not find level {level}")
+    scores = pd.to_numeric(df.loc[metric], errors="coerce")
     return dict(zip(teams, scores))
 
 
@@ -140,6 +160,7 @@ def get_scores_broken_down_per_team():
 
 if __name__ == "__main__":
     fetch_all_summary_data()
-    get_all_scores_per_team()
-    get_scores_broken_down_per_team()
+    get_all_scores_per_team(level="ISDN")
+    get_all_scores_per_team(level="Trust")
+    get_all_scores_per_team(level="Team")
     get_scores_broken_down_per_team()

@@ -1,10 +1,10 @@
 SSNAP Scoring Summary:,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01
-  SSNAP level,X,X,X,X,X,X,X,X,X,TFP,X,X,X,X,X,X
-  SSNAP score,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
-  Case ascertainment band,X,X,X,X,X,X,X,X,X,,E,E,X,X,X,X
-  Audit compliance band,X,X,,X,X,X,X,X,X,TFP,X,X,X,X,X,X
-  Combined Total Key Indicator level,X,X,X,X,X,X,X,X,X,TFP,X,X,X,X,X,X
-  Combined Total Key Indicator score,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+SSNAP level,X,X,X,X,X,X,X,X,X,TFP,X,X,X,X,X,X
+SSNAP score,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
+Case ascertainment band,X,X,X,X,X,X,X,X,X,,E,E,X,X,X,X
+Audit compliance band,X,X,,X,X,X,X,X,X,TFP,X,X,X,X,X,X
+Combined Total Key Indicator level,X,X,X,X,X,X,X,X,X,TFP,X,X,X,X,X,X
+Combined Total Key Indicator score,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.
 Number of records completed: Team-centred post-72h all teams cohort,None completed,None completed,None completed,None completed,None completed,None completed,None completed,None completed,None completed,Too few to report,Too few to report,Too few to report,None completed,None completed,None completed,None completed
 Patient-centred Domain levels: 1) Scanning,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,Too few to report,Too few to report,Too few to report,None entered,None entered,None entered,
 Patient-centred Domain levels: 2) Stroke unit,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,Too few to report,Too few to report,Too few to report,None entered,None entered,None entered,None entered
