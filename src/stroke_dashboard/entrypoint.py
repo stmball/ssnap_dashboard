@@ -3,6 +3,9 @@
 import streamlit as st
 
 from stroke_dashboard.views import national, trust, team, isdn
+from stroke_dashboard.parsing import process_data
+
+process_data()
 
 st.set_page_config(
     page_title="SSNAP Stroke Dashboard",

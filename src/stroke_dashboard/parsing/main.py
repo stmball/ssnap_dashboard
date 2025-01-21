@@ -5,11 +5,11 @@ from stroke_dashboard.parsing.fetch_raw import fetch_all_summary_data
 from stroke_dashboard.parsing.parse_data import (
     get_all_scores_per_team,
     get_scores_broken_down_per_team,
-    get_averages,
 )
 from stroke_dashboard.parsing.core import TeamLevel
 
-if __name__ == "__main__":
+
+def process_data():
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--skip_fetch",
@@ -25,3 +25,7 @@ if __name__ == "__main__":
         get_all_scores_per_team(team_level)
         get_scores_broken_down_per_team(team_level)
         get_averages(team_level)
+
+
+if __name__ == "__main__":
+    process_data()
