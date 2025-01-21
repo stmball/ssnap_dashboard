@@ -97,7 +97,9 @@ def get_scores_per_team(
 ):
     """Gets the scores per team from the DataFrame"""
     teams = sanitise_names(df.loc[level.to_col_name()].tolist())
-    scores = pd.to_numeric(df.loc[metric], errors="coerce").tolist()
+    scores = pd.to_numeric(df.loc[metric], errors="coerce")
+    if isinstance(scores, pd.DataFrame):
+        scores = scores.tolist()
     return dict(zip(teams, scores))
 
 

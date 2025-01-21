@@ -24,7 +24,6 @@ def process_data():
     for team_level in TeamLevel:
         get_all_scores_per_team(team_level)
         get_scores_broken_down_per_team(team_level)
-        get_averages(team_level)
 
 
 if __name__ == "__main__":
