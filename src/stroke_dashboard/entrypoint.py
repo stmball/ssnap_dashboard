@@ -2,7 +2,7 @@
 
 import streamlit as st
 
-from stroke_dashboard.views import national, regional, trust
+from stroke_dashboard.views import national, trust, team, isdn
 
 st.set_page_config(
     page_title="SSNAP Stroke Dashboard",
@@ -15,8 +15,9 @@ pg = st.navigation(
     {
         "Views": [
             st.Page(national, title="National Overview"),
-            st.Page(regional, title="Regional Overview"),
+            st.Page(isdn, title="ISDN Overview"),
             st.Page(trust, title="Trust Overview"),
+            st.Page(team, title="Team Overview"),
         ]
     }
 )

@@ -35,16 +35,19 @@ def national():
     )
     available_metrics = get_available_metrics()
 
-    options = st.multiselect(
-        "Select a metric to measure",
-        available_metrics,
-        max_selections=1,
-    )
+    # options = st.multiselect(
+    #     "Select a metric to measure",
+    #     available_metrics,
+    #     max_selections=1,
+    # )
+    #
+    # if len(options) == 0:
+    #     st.write("Please select a metric to measure.")
+    #     return
 
-    if len(options) == 0:
-        st.write("Please select a metric to measure.")
-        return
-
+    options = [
+        "SSNAP Score",
+    ]
     data = load_metric_data("ISDN", options[0])
     mean_scores = data.mean(axis=1)
 
@@ -86,8 +89,7 @@ def national():
         .iloc[-1, :]
         .nlargest(5)
         .to_frame()
-        .style.format("{:.2f}")
-        .applymap(lambda x: "color: green"),
+        .style.applymap(lambda x: "color: green"),
         use_container_width=True,
     )
 

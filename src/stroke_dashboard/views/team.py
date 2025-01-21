@@ -17,17 +17,17 @@ def calculate_delta(metric: str, current: str, last: str):
         return map_letter_grades(current) - map_letter_grades(last)
 
 
-def trust():
+def team():
     list_of_regions = (
-        pd.read_csv("data/overview/by_metric/summary_data_Trust_SSNAP score.csv")
+        pd.read_csv("data/overview/by_metric/summary_data_Team_SSNAP score.csv")
         .columns[1:]
         .sort_values()
     )
 
-    st.title("SSNAP - Trust Overview")
+    st.title("SSNAP - Team Overview")
 
     regions = st.selectbox(
-        "Select a region",
+        "Select a team",
         list_of_regions,
     )
 
@@ -36,12 +36,12 @@ def trust():
         return
 
     national = pd.read_csv(
-        "data/overview/by_metric/summary_data_Trust_SSNAP score.csv", index_col=0
+        "data/overview/by_metric/summary_data_Team_SSNAP score.csv", index_col=0
     )
 
     national = national.mean(axis=1)
 
-    region_data = pd.read_csv(f"data/processed/TRUST/{regions}.csv").drop(0)
+    region_data = pd.read_csv(f"data/processed/TEAM/{regions}.csv").drop(0)
     region_data = region_data.set_index(region_data.columns[0])
 
     ssnap_scores = pd.to_numeric(region_data.iloc[1, :], errors="coerce")
@@ -50,7 +50,7 @@ def trust():
 
     ssnap_scores.columns = [f"{regions}", "National Average"]
 
-    st.header("SSNAP Scores for Trust")
+    st.header("SSNAP Scores for Team")
     st.line_chart(ssnap_scores)
 
     st.header("Most Recent Metrics (versus last period)")
