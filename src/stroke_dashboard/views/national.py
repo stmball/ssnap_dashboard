@@ -46,8 +46,9 @@ def national():
     #     return
 
     options = [
-        "SSNAP Score",
+        "SSNAP score",
     ]
+
     data = load_metric_data("ISDN", options[0])
     mean_scores = data.mean(axis=1)
 
