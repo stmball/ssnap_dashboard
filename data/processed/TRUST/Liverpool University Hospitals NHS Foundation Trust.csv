@@ -1,0 +1,43 @@
+0,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01,2024-07-01
+Team,Royal Liverpool University Hospital,Royal Liverpool University Hospital,Royal Liverpool University Hospital,Royal Liverpool University Hospital,Royal Liverpool University Hospital,Royal Liverpool University Hospital,Royal Liverpool University Hospital,University Hospital Aintree,University Hospital Aintree,University Hospital Aintree,University Hospital Aintree,University Hospital Aintree,University Hospital Aintree,University Hospital Aintree,University Hospital Aintree
+SSNAP level,B,C,C,C,B,D,D,B,C,A,A,A,A,A,A
+SSNAP score,72,64.0,64.0,60.0,70.0,59.0,55.0,71.0,67.0,82.0,94.0,91.0,88.0,90.0,93.0
+Case ascertainment band,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Audit compliance band,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Combined Total Key Indicator level,B,C,C,C,B,D,D,B,C,A,A,A,A,A,A
+Combined Total Key Indicator score,72,64.0,64.0,60.0,70.0,59.0,55.0,71.0,67.0,82.0,94.0,91.0,88.0,90.0,93.0
+Number of records completed: Team-centred post-72h all teams cohort,145,130,150,142,134,130,171,327,317,346,363,361,403,384,378
+Patient-centred Domain levels: 1) Scanning,B,B,C,C,B,B,B,A,A,A,A,A,A,A,A
+Patient-centred Domain levels: 2) Stroke unit,E,E,E,E,E,E,E,E,E,C,A,A,A,A,A
+Patient-centred Domain levels: 3) Thrombolysis,D,D,D,E,D,E,D,C,C,B,B,B,A,A,A
+Patient-centred Domain levels: 4) Specialist Assessments,C,B,C,C,B,C,C,B,A,A,A,A,A,A,A
+Patient-centred Domain levels: 5) Occupational therapy,A,C,B,A,A,A,B,A,C,B,A,A,A,A,A
+Patient-centred Domain levels: 6) Physiotherapy,B,C,B,B,A,B,B,A,C,B,B,B,B,B,B
+Patient-centred Domain levels: 7) Speech and Language therapy,C,C,C,D,C,D,E,C,D,C,B,B,C,C,B
+Patient-centred Domain levels: 8) MDT working,A,B,C,C,C,D,D,D,C,B,A,A,B,B,A
+Patient-centred Domain levels: 9) Standards by discharge,B,C,B,C,B,C,D,C,B,B,B,B,B,B,B
+Patient-centred Domain levels: 10) Discharge processes,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Patient-centred KI level Patient-centred Total KI level,B,C,C,C,B,C,D,B,C,A,A,A,A,A,A
+Patient-centred KI level Patient-centred Total KI score,72,64.0,64.0,60.0,72.0,60.0,56.0,72.0,68.0,82.0,92.0,92.0,90.0,90.0,94.0
+"Patient-centred SSNAP level Patient-centred SSNAP level 
+(after adjustments)",B,C,C,C,B,C,D,B,C,A,A,A,A,A,A
+Patient-centred SSNAP level Patient-centred SSNAP score,72,64.0,64.0,60.0,72.0,60.0,56.0,72.0,68.0,82.0,92.0,92.0,90.0,90.0,94.0
+Team-centred Domain levels: 1) Scanning,B,B,C,C,B,B,B,A,A,A,A,A,A,A,A
+Team-centred Domain levels: 2) Stroke unit,E,E,E,E,E,E,E,E,E,C,A,A,A,A,A
+Team-centred Domain levels: 3) Thrombolysis,D,D,D,E,E,E,D,D,C,B,B,B,B,A,B
+Team-centred Domain levels: 4) Specialist Assessments,C,B,C,C,B,C,D,B,A,A,A,A,A,A,A
+Team-centred Domain levels: 5) Occupational therapy,A,C,B,A,A,A,B,A,C,B,A,A,B,A,A
+Team-centred Domain levels: 6) Physiotherapy,B,C,B,B,A,B,B,A,D,B,A,B,B,B,B
+Team-centred Domain levels: 7) Speech and Language therapy,C,B,C,D,C,E,E,C,D,C,A,B,C,C,B
+Team-centred Domain levels: 8) MDT working,A,C,C,C,D,D,D,D,C,B,A,B,B,B,A
+Team-centred Domain levels: 9) Standards by discharge,B,C,B,C,B,C,D,C,B,B,B,B,B,B,B
+Team-centred Domain levels: 10) Discharge processes,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Team-centred KI level Team-centred Total KI level,B,C,C,C,C,D,D,B,C,A,A,A,A,A,A
+Team-centred KI level Team-centred Total KI score,72,64.0,64.0,60.0,68.0,58.0,54.0,70.0,66.0,82.0,96.0,90.0,86.0,90.0,92.0
+"Team-centred SSNAP level Team-centred SSNAP level 
+(after adjustments)",B,C,C,C,C,D,D,B,C,A,A,A,A,A,A
+Team-centred SSNAP level Team-centred SSNAP score,72,64.0,64.0,60.0,68.0,58.0,54.0,70.0,66.0,82.0,96.0,90.0,86.0,90.0,92.0
+Applicability to be assessed at 6m: Number of patients considered applicable to be assessed at 6 months - (ref B12.1),120,178,167,147,143,141,127,215,210,302,419,504,508,520,572
+Applicability to be assessed at 6m: Proportion of patients alive who are considered applicable to be assessed at 6 months - (ref B12.3),0.61,79%,82%,82%,77%,69%,64%,94%,92%,92%,90%,93%,93%,90%,91%
+Patients assessed at 6m: Number of applicable patients assessed - (ref B13.1),75,96,81,81,62,101,82,24,19,51,69,52,60,57,79
+Patients assessed at 6m: Proportion of applicable patients assessed - (ref B13.3),0.63,54%,49%,55%,43%,72%,65%,11%,9%,17%,16%,10%,12%,11%,14%

@@ -1,0 +1,43 @@
+0,2013-10-01,2014-01-01,2014-04-01,2014-07-01,2014-10-01
+Team,Barnet General Hospital,Barnet General Hospital,Barnet General Hospital,Barnet General Hospital,Barnet General Hospital
+SSNAP level,X,E,C,D,B
+SSNAP score,.,37.2,60.5,53,73.5
+Case ascertainment band,E,B,B,A,A
+Audit compliance band,X,E,E,E,B
+Combined Total Key Indicator level,X,D,B,C,B
+Combined Total Key Indicator score,.,49,79.7,66.2,77.3
+Number of records completed: Team-centred post-72h all teams cohort,Insufficient records,59,45,55,54
+Patient-centred Domain levels: 1) Scanning,Insufficient records,C,B,D,C
+Patient-centred Domain levels: 2) Stroke unit,Insufficient records,D,C,E,D
+Patient-centred Domain levels: 3) Thrombolysis,Insufficient records,C,A,B,D
+Patient-centred Domain levels: 4) Specialist Assessments,Insufficient records,E,D,E,D
+Patient-centred Domain levels: 5) Occupational therapy,Insufficient records,C,A,A,A
+Patient-centred Domain levels: 6) Physiotherapy,Insufficient records,B,B,A,A
+Patient-centred Domain levels: 7) Speech and Language therapy,Insufficient records,C,A,A,A
+Patient-centred Domain levels: 8) MDT working,Insufficient records,D,D,D,C
+Patient-centred Domain levels: 9) Standards by discharge,Insufficient records,B,B,A,B
+Patient-centred Domain levels: 10) Discharge processes,Insufficient records,C,B,B,C
+Patient-centred KI level Patient-centred Total KI level,Insufficient records,D,B,C,C
+Patient-centred KI level Patient-centred Total KI score,.,56,76,68,68
+Patient-centred SSNAP level Patient-centred SSNAP score,.,42.6,57.8,54.4,64.6
+Team-centred Domain levels: 2) Stroke unit,Insufficient records,E,B,E,B
+Team-centred Domain levels: 5) Occupational therapy,Insufficient records,C,A,A,A
+Team-centred Domain levels: 6) Physiotherapy,Insufficient records,C,B,A,A
+Team-centred Domain levels: 7) Speech and Language therapy,Insufficient records,C,A,A,A
+Team-centred Domain levels: 9) Standards by discharge,Insufficient records,B,C,A,B
+Team-centred Domain levels: 10) Discharge processes,Insufficient records,C,B,B,C
+Team-centred KI level Team-centred Total KI level,Insufficient records,D,A,C,A
+Team-centred KI level Team-centred Total KI score,.,42,83.3,64.4,86.7
+Team-centred SSNAP level Team-centred SSNAP score,.,31.9,63.3,51.6,82.3
+"Patient-centred SSNAP level Patient-centred SSNAP level 
+(after adjustments)",,D,D,D,C
+"Team-centred SSNAP level Team-centred SSNAP level 
+(after adjustments)",,E,C,D,A
+Applicability to be assessed at 6m: Number of patients considered applicable to be assessed at 6 months - (ref B12.1),,66,56,69,78
+Applicability to be assessed at 6m: Proportion of patients alive who are considered applicable to be assessed at 6 months - (ref B12.3),,1,1,1,1
+Patients assessed at 6m: Number of applicable patients assessed - (ref B13.1),,0,2,4,13
+Patients assessed at 6m: Proportion of applicable patients assessed - (ref B13.3),,0,0.04,0.06,0.17
+Team-centred Domain levels: 1) Scanning,,E,,E,
+Team-centred Domain levels: 3) Thrombolysis,,E,,.,
+Team-centred Domain levels: 4) Specialist Assessments,,E,,E,
+Team-centred Domain levels: 8) MDT working,,E,,D,

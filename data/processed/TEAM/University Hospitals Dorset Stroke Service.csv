@@ -1,0 +1,43 @@
+0,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01,2024-07-01
+Team,University Hospitals Dorset Stroke Service,University Hospitals Dorset Stroke Service,University Hospitals Dorset Stroke Service,University Hospitals Dorset Stroke Service,University Hospitals Dorset Stroke Service,University Hospitals Dorset Stroke Service,University Hospitals Dorset Stroke Service,University Hospitals Dorset Stroke Service,University Hospitals Dorset Stroke Service,University Hospitals Dorset Stroke Service
+SSNAP level,C,B,C,C,B,B,B,C,C,B
+SSNAP score,67.5,72.2,69.3,67.5,75.0,78.0,72.0,68.0,60.0,70.0
+Case ascertainment band,A,A,A,A,A,A,A,A,A,A
+Audit compliance band,B,B,B,B,A,A,A,A,A,A
+Combined Total Key Indicator level,B,B,B,B,B,B,B,C,C,B
+Combined Total Key Indicator score,71.0,76.0,73.0,71.0,75.0,78.0,72.0,68.0,60.0,70.0
+Number of records completed: Team-centred post-72h all teams cohort,289,287,329,308,337,363,343,338,332,322
+Patient-centred Domain levels: 1) Scanning,B,B,B,B,B,C,B,B,B,B
+Patient-centred Domain levels: 2) Stroke unit,E,E,E,E,E,E,E,E,E,E
+Patient-centred Domain levels: 3) Thrombolysis,C,D,D,D,C,C,C,C,D,C
+Patient-centred Domain levels: 4) Specialist Assessments,B,B,B,B,B,B,B,B,C,B
+Patient-centred Domain levels: 5) Occupational therapy,B,A,A,A,A,A,A,A,B,A
+Patient-centred Domain levels: 6) Physiotherapy,C,B,B,B,B,A,C,D,C,C
+Patient-centred Domain levels: 7) Speech and Language therapy,C,B,B,B,B,A,B,C,C,C
+Patient-centred Domain levels: 8) MDT working,B,B,C,C,B,B,B,B,C,C
+Patient-centred Domain levels: 9) Standards by discharge,B,B,B,B,B,B,B,B,C,B
+Patient-centred Domain levels: 10) Discharge processes,A,A,A,B,B,A,B,B,B,A
+Patient-centred KI level Patient-centred Total KI level,B,B,B,B,B,B,B,C,C,B
+Patient-centred KI level Patient-centred Total KI score,70.0,74.0,72.0,70.0,74.0,78.0,72.0,68.0,60.0,70.0
+"Patient-centred SSNAP level Patient-centred SSNAP level 
+(after adjustments)",C,B,C,C,B,B,B,C,C,B
+Patient-centred SSNAP level Patient-centred SSNAP score,66.5,70.3,68.4,66.5,74.0,78.0,72.0,68.0,60.0,70.0
+Team-centred Domain levels: 1) Scanning,B,B,B,B,B,C,B,B,B,B
+Team-centred Domain levels: 2) Stroke unit,E,E,E,E,E,E,E,E,E,E
+Team-centred Domain levels: 3) Thrombolysis,C,D,D,D,C,C,C,C,D,C
+Team-centred Domain levels: 4) Specialist Assessments,B,B,B,B,B,B,B,B,C,B
+Team-centred Domain levels: 5) Occupational therapy,B,A,A,A,A,A,A,A,B,A
+Team-centred Domain levels: 6) Physiotherapy,C,B,B,B,B,A,C,D,C,D
+Team-centred Domain levels: 7) Speech and Language therapy,C,A,B,B,B,A,B,C,D,C
+Team-centred Domain levels: 8) MDT working,A,A,B,B,A,B,B,B,B,B
+Team-centred Domain levels: 9) Standards by discharge,B,B,B,B,B,B,B,B,C,B
+Team-centred Domain levels: 10) Discharge processes,A,A,A,B,B,A,B,B,B,A
+Team-centred KI level Team-centred Total KI level,B,B,B,B,B,B,B,C,C,B
+Team-centred KI level Team-centred Total KI score,72.0,78.0,74.0,72.0,76.0,78.0,72.0,68.0,60.0,70.0
+"Team-centred SSNAP level Team-centred SSNAP level 
+(after adjustments)",C,B,B,C,B,B,B,C,C,B
+Team-centred SSNAP level Team-centred SSNAP score,68.4,74.1,70.3,68.4,76.0,78.0,72.0,68.0,60.0,70.0
+Applicability to be assessed at 6m: Number of patients considered applicable to be assessed at 6 months - (ref B12.1),402,395,321,377,437,464,500,528,535,480
+Applicability to be assessed at 6m: Proportion of patients alive who are considered applicable to be assessed at 6 months - (ref B12.3),97%,97%,78%,77%,90%,96%,99%,100%,95%,90%
+Patients assessed at 6m: Number of applicable patients assessed - (ref B13.1),222,210,115,48,61,88,101,97,98,92
+Patients assessed at 6m: Proportion of applicable patients assessed - (ref B13.3),55%,53%,36%,13%,14%,19%,20%,18%,18%,19%

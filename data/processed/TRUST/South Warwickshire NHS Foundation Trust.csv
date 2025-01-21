@@ -1,0 +1,43 @@
+0,2013-10-01,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01
+Team,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Warwick Hospital,Feldon Stroke Rehabilitation Unit SWFT,Feldon Stroke Rehabilitation Unit SWFT
+SSNAP level,E,E,E,D,E,E,E,D,D,D,C,C,C,D,C,C,D,C,C,D,C,D,X,C,B
+SSNAP score,26.1,26.1,38,43,36.1,30.4,36.9,49.9,58.1,56.9,67,61.1,64.2,55.9,60.1,63.3,58,61.2,63.3,56.0,61.1,59.2,.,60.0,75.0
+Case ascertainment band,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,D,C,A
+Audit compliance band,C,C,B,A,B,B,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,X,D,C
+Combined Total Key Indicator level,E,E,D,D,E,E,E,D,C,D,C,C,C,D,C,C,D,C,C,D,C,D,X,A,A
+Combined Total Key Indicator score,29,29,40,43,38,32,38.9,52.6,61.1,56.9,67,61.1,64.2,55.9,60.1,63.3,58,61.2,63.3,56.0,61.1,59.2,.,83.1,83.3
+Number of records completed: Team-centred post-72h all teams cohort,87,62,80,66,65,70,81,84,88,86,76,68,91,80,84,80,88,75,79,87,98,68,Insufficient records,36,42
+Patient-centred Domain levels: 1) Scanning,E,E,D,E,E,E,E,D,E,D,D,D,C,D,D,D,D,D,D,E,D,E,Insufficient records,,
+Patient-centred Domain levels: 2) Stroke unit,E,E,D,D,E,E,E,D,D,E,D,E,D,E,E,E,E,E,E,E,E,E,Insufficient records,B,A
+Patient-centred Domain levels: 3) Thrombolysis,E,D,C,D,E,E,C,B,C,C,C,E,C,E,C,C,D,E,E,E,D,E,Insufficient records,,
+Patient-centred Domain levels: 4) Specialist Assessments,E,E,D,D,D,E,E,D,D,C,C,D,D,D,D,E,E,E,E,E,E,E,Insufficient records,,
+Patient-centred Domain levels: 5) Occupational therapy,D,E,D,C,D,D,C,B,A,C,A,A,B,C,C,B,C,B,B,C,B,C,Insufficient records,B,A
+Patient-centred Domain levels: 6) Physiotherapy,B,C,C,B,B,D,B,B,B,B,A,A,B,B,C,B,B,B,B,B,B,B,Insufficient records,B,B
+Patient-centred Domain levels: 7) Speech and Language therapy,E,E,E,E,E,E,E,D,C,E,C,C,C,C,D,C,C,B,C,C,C,C,Insufficient records,B,B
+Patient-centred Domain levels: 8) MDT working,D,D,D,D,C,D,D,C,B,A,A,B,B,B,A,B,A,B,B,B,B,B,Insufficient records,B,E
+Patient-centred Domain levels: 9) Standards by discharge,E,D,C,C,C,C,D,D,B,B,A,A,B,A,A,A,B,B,A,A,B,B,Insufficient records,B,B
+Patient-centred Domain levels: 10) Discharge processes,E,E,D,D,D,D,D,D,D,D,D,D,C,D,C,C,C,B,A,A,A,A,Insufficient records,A,A
+Patient-centred KI level Patient-centred Total KI level,E,E,D,D,D,E,D,D,C,D,B,C,C,D,D,C,D,D,C,D,C,D,Insufficient records,A,B
+Patient-centred KI level Patient-centred Total KI score,30,30,44,44,40,32,40,54,60,56,70,60,64,54,58.0,60,56,58.0,60.0,56.0,60.0,54.0,.,82.9,80.0
+"Patient-centred SSNAP level Patient-centred SSNAP level 
+(after adjustments)",E,E,D,D,E,E,E,D,D,D,B,C,C,D,D,C,D,D,C,D,C,D,X,D,B
+Patient-centred SSNAP level Patient-centred SSNAP score,27,27,41.8,44,38,30.4,38,51.3,57,56,70,60,64,54,58.0,60,56,58.0,60.0,56.0,60.0,54.0,.,59.9,72.0
+Team-centred Domain levels: 1) Scanning,E,E,E,E,E,E,E,E,E,E,D,D,D,D,D,D,D,D,D,E,D,E,Insufficient records,,
+Team-centred Domain levels: 2) Stroke unit,E,E,E,D,E,E,E,D,D,E,D,E,E,E,E,E,E,E,E,E,E,E,Insufficient records,A,A
+Team-centred Domain levels: 3) Thrombolysis,E,E,E,E,E,E,.,.,.,.,E,.,.,.,.,.,.,.,.,E,.,.,Insufficient records,,
+Team-centred Domain levels: 4) Specialist Assessments,E,E,E,D,E,E,E,D,D,C,C,D,E,E,D,E,E,E,E,E,E,E,Insufficient records,,
+Team-centred Domain levels: 5) Occupational therapy,D,E,D,C,D,D,C,B,A,C,A,A,B,C,C,A,C,B,B,C,B,A,Insufficient records,B,A
+Team-centred Domain levels: 6) Physiotherapy,B,C,C,B,B,D,B,B,A,A,A,A,A,A,B,A,A,A,A,A,B,A,Insufficient records,B,B
+Team-centred Domain levels: 7) Speech and Language therapy,E,E,E,E,E,E,E,D,C,D,C,D,C,C,C,C,C,B,C,D,C,C,Insufficient records,C,C
+Team-centred Domain levels: 8) MDT working,E,D,C,D,D,D,D,B,B,A,B,B,A,B,A,A,A,B,B,B,B,B,Insufficient records,,
+Team-centred Domain levels: 9) Standards by discharge,E,D,C,C,C,C,D,D,B,B,A,A,A,A,A,A,B,B,A,A,B,B,Insufficient records,B,B
+Team-centred Domain levels: 10) Discharge processes,E,E,D,D,D,D,D,D,D,D,D,D,C,D,C,C,C,B,A,A,A,A,Insufficient records,A,A
+Team-centred KI level Team-centred Total KI level,E,E,E,D,E,E,E,D,C,D,C,C,C,D,C,C,C,C,C,D,C,C,Insufficient records,A,A
+Team-centred KI level Team-centred Total KI score,28,28,36,42,36,32,37.8,51.1,62.2,57.8,64,62.2,64.4,57.8,62.2,66.7,60,64.4,66.7,56.0,62.2,64.4,.,83.3,86.7
+"Team-centred SSNAP level Team-centred SSNAP level 
+(after adjustments)",E,E,E,D,E,E,E,D,D,D,C,C,C,D,C,C,C,C,C,D,C,C,X,C,B
+Team-centred SSNAP level Team-centred SSNAP score,25.2,25.2,34.2,42,34.2,30.4,35.9,48.6,59.1,57.8,64,62.2,64.4,57.8,62.2,66.7,60,64.4,66.7,56.0,62.2,64.4,.,60.2,78.0
+Applicability to be assessed at 6m: Number of patients considered applicable to be assessed at 6 months - (ref B12.1),,92,125,128,131,130,119,113,122,112,141,136,137,121,131,141,143,108,116,107,104,131,158,68,71
+Applicability to be assessed at 6m: Proportion of patients alive who are considered applicable to be assessed at 6 months - (ref B12.3),,1,1,1,1,1,1,1,1,1,1,1,1,0.99,99%,1,1,100%,100%,100%,100%,100%,100%,100%,100%
+Patients assessed at 6m: Number of applicable patients assessed - (ref B13.1),,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+Patients assessed at 6m: Proportion of applicable patients assessed - (ref B13.3),,0,0,0,0,0,0,0.01,0,0,0.01,0,0,0,0%,0.01,0,1%,1%,0%,0%,0%,0%,0%,0%

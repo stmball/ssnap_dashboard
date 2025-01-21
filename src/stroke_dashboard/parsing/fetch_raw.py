@@ -62,4 +62,5 @@ def fetch_all_summary_data():
         df = df.drop(df.columns[1], axis=1)
 
         export_path = Path("data") / "raw" / f"{quarter}.csv"
+        export_path.parent.mkdir(parents=True, exist_ok=True)
         df.to_csv(export_path, index=False)

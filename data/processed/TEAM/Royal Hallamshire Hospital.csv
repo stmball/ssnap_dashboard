@@ -1,0 +1,43 @@
+0,2013-10-01,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01,2024-07-01
+Team,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital,Royal Hallamshire Hospital
+SSNAP level,D,D,D,D,D,D,D,D,D,D,B,C,C,C,C,B,A,A,A,B,B,B,B,B,B,B,B,B,B,B,B
+SSNAP score,55.1,47.7,55.1,57,56,53.1,52.3,59.8,51.3,50.3,71.3,64.1,67,66.5,65.5,74.1,82.6,83.6,82.6,79.8,76.0,75.0,79.8,75.0,77.9,77.0,77.9,77.9,76.0,75.0,74.1
+Case ascertainment band,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Audit compliance band,B,C,B,B,B,C,B,B,B,B,B,B,A,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B
+Combined Total Key Indicator level,D,D,D,C,D,D,D,C,D,D,B,B,C,B,C,B,A,A,A,A,B,B,A,B,A,A,A,A,B,B,B
+Combined Total Key Indicator score,58,53,58,60,59,59,55,63,54,53,75,71,67,70,69.0,78,87,88.0,87.0,84.0,80.0,79.0,84.0,79.0,82.0,81.0,82.0,82.0,80.0,79.0,78.0
+Number of records completed: Team-centred post-72h all teams cohort,205,243,237,248,212,224,248,220,248,220,250,218,247,242,233,326,358,339,330,370,349,386,366,352,353,368,381,350,349,363,321
+Patient-centred Domain levels: 1) Scanning,B,B,B,A,B,B,B,B,B,B,B,B,B,B,B,C,B,A,A,A,B,B,A,B,A,A,B,B,A,A,B
+Patient-centred Domain levels: 2) Stroke unit,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B
+Patient-centred Domain levels: 3) Thrombolysis,D,D,D,D,D,D,D,D,D,E,D,D,C,C,D,C,B,C,C,C,C,C,B,C,C,C,C,C,D,C,C
+Patient-centred Domain levels: 4) Specialist Assessments,B,C,C,B,C,D,D,B,D,C,C,C,C,C,C,C,B,B,B,B,B,B,B,B,B,C,B,B,B,C,B
+Patient-centred Domain levels: 5) Occupational therapy,D,D,C,C,C,C,C,C,B,C,A,A,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Patient-centred Domain levels: 6) Physiotherapy,D,D,C,C,B,B,C,C,C,D,B,B,C,D,C,B,A,A,B,B,B,B,B,B,B,B,A,A,B,B,B
+Patient-centred Domain levels: 7) Speech and Language therapy,E,E,E,E,E,D,E,E,E,E,C,D,E,D,D,B,B,B,B,C,C,C,C,C,C,C,C,C,B,C,B
+Patient-centred Domain levels: 8) MDT working,D,D,D,D,D,D,D,D,D,D,B,C,C,C,C,B,B,B,B,B,B,B,B,B,B,B,B,B,C,C,C
+Patient-centred Domain levels: 9) Standards by discharge,C,D,C,D,D,D,D,B,B,C,B,B,B,B,B,B,B,B,A,B,B,B,B,B,B,B,B,B,B,B,B
+Patient-centred Domain levels: 10) Discharge processes,B,B,B,B,B,B,B,B,D,C,A,B,B,B,B,B,A,A,A,A,B,B,B,B,A,A,A,B,A,A,A
+Patient-centred KI level Patient-centred Total KI level,D,D,D,C,D,D,D,C,D,D,B,B,C,C,C,B,A,A,A,A,B,B,A,B,A,B,A,B,B,B,B
+Patient-centred KI level Patient-centred Total KI score,56,52,58,60,58,58,54,62,56,52,76,70,66,66,66.0,76,86,86.0,86.0,82.0,78.0,78.0,82.0,78.0,82.0,80.0,82.0,80.0,80.0,78.0,80.0
+"Patient-centred SSNAP level Patient-centred SSNAP level 
+(after adjustments)",D,D,D,D,D,D,D,D,D,D,B,C,C,C,C,B,A,A,A,B,B,B,B,B,B,B,B,B,B,B,B
+Patient-centred SSNAP level Patient-centred SSNAP score,53.2,46.8,55.1,57,55.1,52.2,51.3,58.9,53.2,49.4,72.2,63.2,66,62.7,62.7,72.2,81.7,81.7,81.7,77.9,74.1,74.1,77.9,74.1,77.9,76.0,77.9,76.0,76.0,74.1,76.0
+Team-centred Domain levels: 1) Scanning,B,B,B,A,B,B,B,B,B,B,B,B,B,B,B,C,B,A,A,A,B,B,A,B,A,A,B,B,A,A,B
+Team-centred Domain levels: 2) Stroke unit,A,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B
+Team-centred Domain levels: 3) Thrombolysis,D,D,D,D,D,D,D,D,E,E,D,D,C,C,D,C,B,C,C,C,C,C,B,C,D,C,C,C,D,C,C
+Team-centred Domain levels: 4) Specialist Assessments,B,C,C,B,C,C,D,B,D,C,C,C,C,C,C,C,B,B,B,B,B,B,B,B,B,C,B,B,B,C,B
+Team-centred Domain levels: 5) Occupational therapy,D,D,C,C,C,C,C,C,C,C,B,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B
+Team-centred Domain levels: 6) Physiotherapy,C,D,C,C,B,C,C,C,C,D,B,B,C,C,B,A,A,A,A,B,B,B,A,A,B,B,A,A,B,B,B
+Team-centred Domain levels: 7) Speech and Language therapy,E,E,E,E,D,D,E,D,E,D,C,D,E,D,C,A,B,A,B,B,B,C,C,C,B,C,C,B,A,B,B
+Team-centred Domain levels: 8) MDT working,D,D,D,D,D,C,D,D,D,D,B,C,C,B,C,B,B,B,B,B,B,B,B,B,B,B,B,B,C,C,C
+Team-centred Domain levels: 9) Standards by discharge,C,C,C,D,D,D,C,B,B,B,B,B,B,B,B,B,A,A,A,A,A,A,A,B,B,A,A,A,B,B,B
+Team-centred Domain levels: 10) Discharge processes,B,B,B,B,B,B,B,B,D,D,A,A,A,A,A,B,A,A,A,A,B,B,B,B,A,A,B,B,B,A,B
+Team-centred KI level Team-centred Total KI level,C,D,D,C,C,C,D,C,D,D,B,B,C,B,B,B,A,A,A,A,A,B,A,B,A,A,A,A,B,B,B
+Team-centred KI level Team-centred Total KI score,60,54,58,60,60,60,56,64,52,54,74,72,68,74,72.0,80,88,90.0,88.0,86.0,82.0,80.0,86.0,80.0,82.0,82.0,82.0,84.0,80.0,80.0,76.0
+"Team-centred SSNAP level Team-centred SSNAP level 
+(after adjustments)",D,D,D,D,D,D,D,C,D,D,B,C,C,B,C,B,A,A,A,A,B,B,A,B,B,B,B,B,B,B,B
+Team-centred SSNAP level Team-centred SSNAP score,57,48.6,55.1,57,57,54,53.2,60.8,49.4,51.3,70.3,65,68,70.3,68.4,76,83.6,85.5,83.6,81.7,77.9,76.0,81.7,76.0,77.9,77.9,77.9,79.8,76.0,76.0,72.2
+Applicability to be assessed at 6m: Number of patients considered applicable to be assessed at 6 months - (ref B12.1),,337,343,352,390,415,395,342,334,268,393,380,367,362,378,425,351,442,417,400,360,435,471,470,518,525,482,485,463,499,525
+Applicability to be assessed at 6m: Proportion of patients alive who are considered applicable to be assessed at 6 months - (ref B12.3),,1,1,0.99,0.99,1,0.99,0.96,0.94,0.91,0.93,0.9,0.92,0.95,93%,0.97,0.93,96%,93%,89%,85%,88%,91%,91%,92%,92%,92%,94%,94%,93%,94%
+Patients assessed at 6m: Number of applicable patients assessed - (ref B13.1),,0,1,5,10,8,7,56,129,143,122,100,33,26,66,99,114,213,190,235,233,284,297,241,209,237,235,265,248,243,258
+Patients assessed at 6m: Proportion of applicable patients assessed - (ref B13.3),,0,0,0.01,0.03,0.02,0.02,0.16,0.39,0.53,0.31,0.26,0.09,0.07,17%,0.23,0.32,48%,46%,59%,65%,65%,63%,51%,40%,45%,49%,55%,54%,49%,49%

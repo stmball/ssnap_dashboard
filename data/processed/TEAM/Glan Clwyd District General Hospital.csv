@@ -1,0 +1,43 @@
+0,2013-10-01,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01,2024-07-01
+Team,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital,Glan Clwyd District General Hospital
+SSNAP level,E,D,D,D,D,D,D,B,B,B,C,B,C,C,B,B,C,D,C,D,D,D,D,D,D,D,D,D,C,D,C
+SSNAP score,32.5,42.8,50,43.7,54,53.2,55.1,71,75,70,62.7,74,68,66.5,78.0,74,69,54.2,66.0,59.0,57.0,55.1,54.2,53.2,51.3,59.8,59.8,52.0,61.0,47.0,60.0
+Case ascertainment band,B,A,A,B,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Audit compliance band,B,B,A,A,A,A,B,A,A,A,B,A,A,B,A,A,A,B,A,A,B,B,B,B,B,B,B,A,A,A,A
+Combined Total Key Indicator level,E,D,D,D,D,D,D,B,B,B,C,B,C,B,B,B,C,D,C,D,C,D,D,D,D,C,C,D,C,D,C
+Combined Total Key Indicator score,36,45,50,46,54,56,58,71,79,70,66,74,68,70,78.0,74,69,57.0,66.0,59.0,60.0,58.0,57.0,56.0,54.0,63.0,63.0,52.0,61.0,47.0,60.0
+Number of records completed: Team-centred post-72h all teams cohort,64,103,90,83,104,76,83,86,77,94,98,107,102,86,115,97,128,125,98,94,96,96,92,99,117,122,118,113,123,113,126
+Patient-centred Domain levels: 1) Scanning,E,E,E,E,E,E,D,D,B,C,C,B,C,C,A,A,B,A,B,B,B,B,B,B,A,B,A,C,B,C,A
+Patient-centred Domain levels: 2) Stroke unit,E,E,E,E,E,E,E,C,B,C,D,C,D,D,C,C,C,E,E,E,E,E,E,E,E,E,E,E,E,E,E
+Patient-centred Domain levels: 3) Thrombolysis,E,E,E,E,E,E,E,D,D,D,C,C,D,D,B,C,C,D,C,D,D,D,D,D,D,E,D,E,D,E,D
+Patient-centred Domain levels: 4) Specialist Assessments,D,D,B,C,B,B,B,B,B,B,B,B,B,B,B,B,B,D,C,D,D,C,D,D,D,D,D,E,D,E,D
+Patient-centred Domain levels: 5) Occupational therapy,E,C,C,C,C,C,C,C,B,C,C,C,D,C,B,C,C,D,C,C,C,C,C,D,E,C,C,C,C,D,D
+Patient-centred Domain levels: 6) Physiotherapy,D,D,D,D,C,C,D,B,B,D,D,B,B,B,C,B,C,D,C,C,C,D,D,C,D,C,B,C,C,D,D
+Patient-centred Domain levels: 7) Speech and Language therapy,C,C,B,C,B,C,B,A,A,A,A,A,A,A,A,B,C,B,B,B,B,C,B,C,C,B,B,C,C,C,B
+Patient-centred Domain levels: 8) MDT working,E,D,D,D,D,B,B,A,A,A,B,A,B,A,B,B,B,C,B,C,C,C,C,D,D,B,B,C,B,D,B
+Patient-centred Domain levels: 9) Standards by discharge,C,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A
+Patient-centred Domain levels: 10) Discharge processes,D,C,D,C,C,C,C,C,C,C,D,D,C,C,C,D,C,D,C,C,C,C,D,B,B,A,B,B,B,B,B
+Patient-centred KI level Patient-centred Total KI level,E,D,D,D,D,D,D,B,B,B,C,B,C,B,B,B,B,D,C,C,C,D,D,D,D,C,C,D,C,D,C
+Patient-centred KI level Patient-centred Total KI score,34,44,48,46,54,56,58,72,80,70,66,76,68,72,80.0,74,70,56.0,66.0,60.0,60.0,58.0,56.0,56.0,54.0,64.0,66.0,54.0,62.0,48.0,62.0
+"Patient-centred SSNAP level Patient-centred SSNAP level 
+(after adjustments)",E,D,D,D,D,D,D,B,B,B,C,B,C,C,B,B,B,D,C,C,D,D,D,D,D,C,C,D,C,D,C
+Patient-centred SSNAP level Patient-centred SSNAP score,30.7,41.8,48,43.7,54,53.2,55.1,72,76,70,62.7,76,68,68.4,80.0,74,70,53.2,66.0,60.0,57.0,55.1,53.2,53.2,51.3,60.8,62.7,54.0,62.0,48.0,62.0
+Team-centred Domain levels: 1) Scanning,E,E,E,E,E,E,D,D,B,C,C,B,C,C,A,A,B,A,B,B,B,B,B,B,A,B,A,C,B,C,A
+Team-centred Domain levels: 2) Stroke unit,E,E,E,E,E,E,E,C,B,C,D,C,D,D,C,C,C,E,E,E,E,E,E,E,E,E,E,E,E,E,E
+Team-centred Domain levels: 3) Thrombolysis,E,E,E,E,E,E,E,D,D,D,C,C,D,D,B,C,C,D,C,D,D,D,D,D,D,E,D,E,D,E,D
+Team-centred Domain levels: 4) Specialist Assessments,D,D,B,C,B,B,B,B,B,B,B,B,B,B,B,B,B,D,C,D,D,C,D,D,D,D,D,E,D,E,D
+Team-centred Domain levels: 5) Occupational therapy,E,C,C,C,C,C,C,C,B,C,C,C,D,C,B,C,C,D,C,C,C,C,C,D,E,C,C,C,C,E,E
+Team-centred Domain levels: 6) Physiotherapy,D,D,D,D,C,C,D,B,B,D,D,C,B,B,D,B,C,D,C,C,C,D,D,C,C,C,C,D,D,D,D
+Team-centred Domain levels: 7) Speech and Language therapy,C,C,B,C,B,C,B,A,A,A,A,A,A,A,A,B,C,B,B,C,B,C,B,C,D,B,C,C,C,C,C
+Team-centred Domain levels: 8) MDT working,D,C,C,D,D,B,B,B,B,A,B,B,B,B,B,B,B,B,B,C,C,C,B,D,D,B,B,C,B,D,B
+Team-centred Domain levels: 9) Standards by discharge,B,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A
+Team-centred Domain levels: 10) Discharge processes,D,C,C,C,C,C,C,C,C,C,D,D,C,D,D,D,D,D,C,C,C,C,D,B,B,B,C,C,B,B,B
+Team-centred KI level Team-centred Total KI level,E,D,D,D,D,D,D,B,B,B,C,B,C,C,B,B,C,D,C,D,C,D,D,D,D,C,C,D,C,D,D
+Team-centred KI level Team-centred Total KI score,38,46,52,46,54,56,58,70,78,70,66,72,68,68,76.0,74,68,58.0,66.0,58.0,60.0,58.0,58.0,56.0,54.0,62.0,60.0,50.0,60.0,46.0,58.0
+"Team-centred SSNAP level Team-centred SSNAP level 
+(after adjustments)",E,D,D,D,D,D,D,B,B,B,C,B,C,C,B,B,C,D,C,D,D,D,D,D,D,D,D,D,C,D,D
+Team-centred SSNAP level Team-centred SSNAP score,34.3,43.7,52,43.7,54,53.2,55.1,70,74.1,70,62.7,72,68,64.6,76.0,74,68,55.1,66.0,58.0,57.0,55.1,55.1,53.2,51.3,58.9,57.0,50.0,60.0,46.0,58.0
+Applicability to be assessed at 6m: Number of patients considered applicable to be assessed at 6 months - (ref B12.1),,43,85,141,155,161,147,144,144,125,210,199,170,177,167,153,121,131,147,169,172,190,178,162,123,139,159,150,168,174,176
+Applicability to be assessed at 6m: Proportion of patients alive who are considered applicable to be assessed at 6 months - (ref B12.3),,1,1,1,1,1,0.99,0.99,1,1,1,1,0.99,0.99,95%,0.9,0.82,91%,86%,91%,89%,93%,94%,96%,90%,90%,93%,93%,90%,90%,94%
+Patients assessed at 6m: Number of applicable patients assessed - (ref B13.1),,0,0,0,0,3,2,1,0,2,13,23,31,16,38,56,68,80,100,102,79,114,135,120,79,83,91,58,93,105,92
+Patients assessed at 6m: Proportion of applicable patients assessed - (ref B13.3),,0,0,0,0,0.02,0.01,0.01,0,0.02,0.06,0.12,0.18,0.09,23%,0.37,0.56,61%,68%,60%,46%,60%,76%,74%,64%,60%,57%,39%,55%,60%,52%

@@ -1,0 +1,43 @@
+0,2014-01-01,2014-04-01,2014-07-01,2014-10-01,2015-01-01,2015-04-01,2015-07-01,2015-10-01,2016-01-01,2018-04-01,2018-07-01,2018-10-01,2019-01-01,2019-04-01,2019-07-01,2019-10-01,2021-04-01,2021-07-01,2021-10-01,2022-01-01,2022-04-01,2022-07-01,2022-10-01,2023-01-01,2023-04-01,2023-07-01,2023-10-01,2024-01-01,2024-04-01,2024-07-01
+Team,Belfast City Hospital,Belfast City Hospital,Belfast City Hospital,Belfast City Hospital,Belfast City Hospital,Belfast City Hospital,Mater Infirmorum Hospital,Mater Infirmorum Hospital,Mater Infirmorum Hospital,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast,Royal Victoria Hospital Belfast
+SSNAP level,X,X,X,X,X,X,X,X,X,B,B,A,B,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,B
+SSNAP score,.,.,.,.,.,.,.,.,.,77,76,84,80,88.0,92,89,92.0,91.0,87.0,87.0,83.0,74.0,76.0,85.0,84.0,84.0,88.0,82.0,73.1,79.0
+Case ascertainment band,X,X,X,X,X,X,X,X,X,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Audit compliance band,X,X,,X,X,X,X,X,X,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A
+Combined Total Key Indicator level,X,X,X,X,X,X,X,X,X,B,B,A,B,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,B
+Combined Total Key Indicator score,.,.,.,.,.,.,.,.,.,77,76,84,80,88.0,92,89,92.0,91.0,87.0,87.0,83.0,74.0,76.0,85.0,84.0,84.0,88.0,82.0,77.0,79.0
+Number of records completed: Team-centred post-72h all teams cohort,None completed,None completed,None completed,None completed,None completed,None completed,None completed,None completed,None completed,165,175,165,161,180,163,169,155,152,141,135,127,182,226,174,159,173,204,178,168,167
+Patient-centred Domain levels: 1) Scanning,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A
+Patient-centred Domain levels: 2) Stroke unit,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,D,E,E,D,D,D,D,D,D,E,E,E,E,E,E,E,E,D,E,E,E
+Patient-centred Domain levels: 3) Thrombolysis,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,B,B,A,A,A,A,B,A,A,B,B,B,B,B,B,B,B,B,B,B,C
+Patient-centred Domain levels: 4) Specialist Assessments,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,B,B,A,A,A,A,A,A,A,A,B,B,B,B,A,B,B,B,B,B,B
+Patient-centred Domain levels: 5) Occupational therapy,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,C,C,B,C,B,B,B,A,A,A,A,B,C,C,B,A,A,A,A,C,B
+Patient-centred Domain levels: 6) Physiotherapy,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,B,B,A,A,A,A,A,A,A,A,A,B,B,B,A,A,A,A,B,B,B
+Patient-centred Domain levels: 7) Speech and Language therapy,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A
+Patient-centred Domain levels: 8) MDT working,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,C,C,C,C,B,A,B,A,A,A,B,A,C,C,B,B,B,B,B,C,C
+Patient-centred Domain levels: 9) Standards by discharge,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,B,B,B,B,B,A,A,B,B,B,A,B,B,A,A,A,A,A,B,A,B
+Patient-centred Domain levels: 10) Discharge processes,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,A,A,A,C,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A
+Patient-centred KI level Patient-centred Total KI level,No records,No records,No records,No records,No records,No records,No records,No records,No records,B,B,A,B,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,B,B
+Patient-centred KI level Patient-centred Total KI score,.,.,.,.,.,.,.,.,.,78,76,84,80,88.0,92,88,92.0,92.0,88.0,86.0,80.0,74.0,76.0,84.0,84.0,86.0,88.0,82.0,78.0,76.0
+"Patient-centred SSNAP level Patient-centred SSNAP level 
+(after adjustments)",,,,X,X,X,X,X,X,B,B,A,B,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,B,B
+Patient-centred SSNAP level Patient-centred SSNAP score,.,.,.,.,.,.,.,.,.,78,76,84,80,88.0,92,88,92.0,92.0,88.0,86.0,80.0,74.0,76.0,84.0,84.0,86.0,88.0,82.0,74.1,76.0
+Team-centred Domain levels: 1) Scanning,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,A,A,A,A,A,A,A,A,A,A,A,B,B,B,A,A,B,A,B,A,A
+Team-centred Domain levels: 2) Stroke unit,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,E,E,E,E,D,D,D,D,D,E,E,E,E,E,D,E,E,D,E,E,E
+Team-centred Domain levels: 3) Thrombolysis,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,B,B,A,A,A,A,A,A,A,B,B,B,B,B,C,B,C,B,B,C,C
+Team-centred Domain levels: 4) Specialist Assessments,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,B,B,A,A,A,A,A,A,B,A,B,B,B,B,A,B,B,B,B,B,B
+Team-centred Domain levels: 5) Occupational therapy,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,C,C,B,C,B,A,B,A,A,A,A,A,C,C,B,A,A,A,A,C,A
+Team-centred Domain levels: 6) Physiotherapy,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,B,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A
+Team-centred Domain levels: 7) Speech and Language therapy,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A
+Team-centred Domain levels: 8) MDT working,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,C,C,C,B,B,B,B,A,A,B,A,A,C,B,B,B,B,B,C,C,C
+Team-centred Domain levels: 9) Standards by discharge,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,B,B,B,B,B,A,A,B,B,B,A,A,B,A,A,A,A,A,A,A,A
+Team-centred Domain levels: 10) Discharge processes,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,None entered,A,A,A,C,A,A,A,A,A,A,A,A,A,C,A,A,A,A,A,A,A
+Team-centred KI level Team-centred Total KI level,No records,No records,No records,No records,No records,No records,No records,No records,No records,B,B,A,B,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,A
+Team-centred KI level Team-centred Total KI score,.,.,.,.,.,.,.,.,.,76,76,84,80,88.0,92,90,92.0,90.0,86.0,88.0,86.0,74.0,76.0,86.0,84.0,82.0,88.0,82.0,76.0,82.0
+"Team-centred SSNAP level Team-centred SSNAP level 
+(after adjustments)",,,,X,X,X,X,X,X,B,B,A,B,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,A
+Team-centred SSNAP level Team-centred SSNAP score,.,.,.,.,.,.,.,.,.,76,76,84,80,88.0,92,90,92.0,90.0,86.0,88.0,86.0,74.0,76.0,86.0,84.0,82.0,88.0,82.0,72.2,82.0
+Applicability to be assessed at 6m: Number of patients considered applicable to be assessed at 6 months - (ref B12.1),.,.,.,.,.,.,.,.,.,244,273,279,283,307,309,310,310,304,304,290,290,299,291,364,391,364,324,319,323,334
+Applicability to be assessed at 6m: Proportion of patients alive who are considered applicable to be assessed at 6 months - (ref B12.3),.,.,.,.,.,.,.,.,.,1,1,1,0.99,98%,1,0.98,99%,99%,100%,100%,99%,99%,100%,100%,99%,97%,96%,96%,96%,97%
+Patients assessed at 6m: Number of applicable patients assessed - (ref B13.1),.,.,.,.,.,.,.,.,.,12,10,17,27,40,35,65,69,48,63,48,38,45,16,39,76,86,65,75,92,98
+Patients assessed at 6m: Proportion of applicable patients assessed - (ref B13.3),.,.,.,.,.,.,.,.,.,0.05,0.04,0.06,0.1,13%,0.11,0.21,22%,16%,21%,17%,13%,15%,5%,11%,19%,24%,20%,24%,28%,29%
